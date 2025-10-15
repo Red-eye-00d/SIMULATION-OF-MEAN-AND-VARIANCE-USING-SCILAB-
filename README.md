@@ -37,6 +37,7 @@ __PROCEDURE:__
 __PROGRAM:__
 
 __OUTPUT GRAPH:__
+<img width="289" height="174" alt="images" src="https://github.com/user-attachments/assets/38777b79-dd98-458a-89b7-b82cbb5d2cb8" />
 
 __RESULT:__
 
